@@ -1,0 +1,8 @@
+{
+    "checkpoint" : "models/Stable-diffusion",
+    "vae": "models/VAE",
+    "lora": "models/Lora",
+    "ControlNet": "models/ControlNet",
+    "textualinversion" : "embeddings",
+    "hypernetworks" : "models/hypernetworks"
+}

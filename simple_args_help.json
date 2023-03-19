@@ -1,0 +1,11 @@
+{
+    "sub" : "Create a subfolder after downloading.",
+    "skip" : "Skip current download link.",
+    "skipvae" : "Skip the vae download.",
+    "_raw" : "Download raw url, raw url is a download link. Requires an input argument that is the name of the file.",
+    "forceoverwrite": "Overwrite downloaded files.",
+    "_vaever": "Specify a vae version.",
+    "_modelver": "Specify a model version",
+    "_type": "Model type.",
+    "_saveto": "Specify a special save path."
+}

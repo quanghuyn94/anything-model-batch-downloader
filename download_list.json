@@ -1,0 +1,19 @@
+{
+    "urls" : [
+        {
+            "model_url": "https://civitai.com/models/2583/grapefruit-hentai-model"
+        },
+        {
+            "model_url" : "https://civitai.com/models/11367/tifameenow",
+            "args" : "sub"
+        },
+        {
+            "model_url" : "https://civitai.com/api/download/models/12477",
+            "args" : "raw=\"arknights-suzuran.safetensors\" type=\"lora\" sub forcerewrite"
+        },
+        {
+            "model_url" : "https://civitai.com/models/4514/pure-eros-face",
+            "args" : "sub saveto=\"nsfw\""
+        }
+    ]
+}
