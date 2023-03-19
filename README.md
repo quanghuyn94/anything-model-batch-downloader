@@ -1,6 +1,6 @@
 # Introduce
 
-- Anything Model Bacth Downloader allows you to batch download models from civitai, hugging face easily just through model url.
+- Anything Model Batch Downloader allows you to batch download models from civitai, hugging face easily just through model url.
 - Anything Model Bacth Downloader is designed to run on cloud systems like Google Colab, Amazon SageMaker. 
 
 # Feature
